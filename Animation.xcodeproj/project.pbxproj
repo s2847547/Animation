@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		042A405A2E8F217D0014E81D /* Review for Project 6 - Animation.png in Resources */ = {isa = PBXBuildFile; fileRef = 042A40592E8F217D0014E81D /* Review for Project 6 - Animation.png */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		042A404B2E8F099E0014E81D /* Animation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Animation.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		042A40592E8F217D0014E81D /* Review for Project 6 - Animation.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Review for Project 6 - Animation.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -34,6 +39,7 @@
 			children = (
 				042A404D2E8F099E0014E81D /* Animation */,
 				042A404C2E8F099E0014E81D /* Products */,
+				042A40592E8F217D0014E81D /* Review for Project 6 - Animation.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -109,6 +115,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				042A405A2E8F217D0014E81D /* Review for Project 6 - Animation.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
